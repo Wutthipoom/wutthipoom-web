@@ -22,7 +22,7 @@ body {
 }
 
 .navbar {
-  background: #0800ff;
+  background: #02194d;
   color: rgb(255, 255, 255);
   padding: 14px 24px;
 }
@@ -66,7 +66,7 @@ body {
 }
 
 .btn-register {
-  background: #2563eb;
+  background: #0a2f75;
   padding: 8px 14px;
   border-radius: 8px;
 }
@@ -123,7 +123,7 @@ body {
 .auth-card button {
   width: 100%;
   padding: 12px;
-  background: #2563eb;
+  background: #02143b;
   color: white;
   border: none;
   border-radius: 8px;
@@ -131,7 +131,7 @@ body {
 }
 
 .auth-card a {
-  color: #2563eb;
+  color: #113179;
   text-decoration: none;
 }
 
@@ -142,8 +142,8 @@ body {
 }
 
 .footer {
-  background: #96b6ff;
-  color: black;
+  background: #0b286b;
+  color: rgb(255, 255, 255);
   text-align: left;
   padding: 18px;
 }

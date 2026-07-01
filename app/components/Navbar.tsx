@@ -43,7 +43,7 @@ export default function Navbar() {
             <div className="nav-container">
 
                 <Link href="/" className="logo">
-                    โอเคมาม่า SHOP
+                    nongnon shop
                 </Link>
 
                 <button className="menu-btn" onClick={() => setMenuOpen(!menuOpen)}>

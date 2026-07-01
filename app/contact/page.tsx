@@ -1,10 +1,11 @@
-import Image from "next/image";
-
-export default function Home() {
+export default function contact() {
   return (
-    <div>
-        <h2>ยินดีต้อนรับเข้าสู่  ของผมครับ</h2>
-        <p>โดย นายวุฒิภูมิ วุฒิ </p>
+    <div >
+     
+      <h3>...</h3>
+      <p>CDTI</p>
+
+    
     </div>
   );
 }
