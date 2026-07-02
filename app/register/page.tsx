@@ -49,6 +49,7 @@ export default function Register() {
           placeholder="Password"
           type="password"
           onChange={(e) => setForm({ ...form, password: e.target.value })}
+      
         />
         <button>Register</button>
       </form>
